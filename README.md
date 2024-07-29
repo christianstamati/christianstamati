@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Christian 👋
+
+👩🏻‍💻 Fullstack Developer with expertise in building digital products using Unity, Unreal Engine, and React. <br/>
+👩🏻‍🎓 Studied Creative Technologies at <a href="https://www.naba.it/" target="_blank">NABA</a>, Milan (Italy). <br/>
+💼 Developing innovative solutions for body measurements at <a href="https://www.we-wear.eu/" target="_blank">WE WEAR</a>. <br/>
+💭 Exploring Three.js with the fiber framework to build a simple online editor, threedify. <br/>
+
 
 <!--
 **christianstamati/christianstamati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
