@@ -1,11 +1,11 @@
-### Hi, I'm Christian 👋
+# Hi, I'm Christian 👋
 
 👩🏻‍💻 Fullstack Developer based in Italy with a strong interest in web applications. <br/>
 👩🏻‍🎓 Studied Creative Technologies at <a href="https://www.naba.it/" target="_blank">NABA</a>, Milan (Italy). <br/>
 💼 Developing innovative solutions for body measurements at <a href="https://www.we-wear.eu/" target="_blank">WE WEAR</a>. <br/>
 💭 Exploring Three.js with the fiber framework to build a simple online editor, threedify. <br/>
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -20,7 +20,7 @@
 ![.Net](https://img.shields.io/badge/.NET-522BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# ✨ Other tools
+## ✨ Other tools
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Unity](https://img.shields.io/badge/Unity-4E4E4F.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -31,7 +31,7 @@
 ## 📫 Contact me
 
 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/christianstamati/) <br/>
-🌐 Check my [Website](https://www.chri.dev/) <br/>
+🌐 Check my website [chri.dev](https://www.chri.dev/) <br/>
 ✉️ Send me an email to [hello@chri.dev](mailto:hello@chri.dev) <br/>
 
 <!--
