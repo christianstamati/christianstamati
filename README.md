@@ -5,7 +5,7 @@
 💼 Developing innovative solutions for body measurements at <a href="https://www.we-wear.eu/" target="_blank">WE WEAR</a>. <br/>
 💭 Exploring Three.js with the fiber framework to build a simple online editor, threedify. <br/>
 
-<a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats" target="_blank">
   <img src=https://streak-stats.demolab.com/?user=christianstamati&&theme=github-dark-blue&&hide_border=true&card_width=495>
 </a>
 
