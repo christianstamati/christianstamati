@@ -5,6 +5,9 @@
 💼 Developing innovative solutions for body measurements at <a href="https://www.we-wear.eu/" target="_blank">WE WEAR</a>. <br/>
 💭 Exploring Three.js with the fiber framework to build a simple online editor, threedify. <br/>
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=christianstamati&theme=github_dark&hide_border=true&hide=stars,prs)<br/>
+
 ## ⚡ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
