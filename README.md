@@ -5,8 +5,10 @@
 💼 Developing innovative solutions for body measurements at <a href="https://www.we-wear.eu/" target="_blank">WE WEAR</a>. <br/>
 💭 Exploring Three.js with the fiber framework to build a simple online editor, threedify. <br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=christianstamati&theme=github_dark&hide_border=true&hide=stars,prs)<br/>
+<a href="https://git.io/streak-stats">
+  <img src=https://streak-stats.demolab.com/?user=christianstamati&&theme=github-dark-blue&&hide_border=true&card_width=495>
+</a>
+
 
 ## ⚡ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -50,4 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+STATUS
+![](https://github-readme-stats.vercel.app/api?username=christianstamati&theme=github_dark&hide_border=true&hide=stars,prs)<br/>
 -->
