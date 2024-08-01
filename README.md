@@ -3,7 +3,7 @@
 👩🏻‍💻 Fullstack Developer based in Italy with a strong interest in web applications. <br/>
 👩🏻‍🎓 Studied Creative Technologies at <a href="https://www.naba.it/" target="_blank">NABA</a>, Milan (Italy). <br/>
 💼 Developing innovative solutions for body measurements at <a href="https://www.we-wear.eu/" target="_blank">WE WEAR</a>. <br/>
-💭 Exploring Three.js with the fiber framework to build a simple online editor, threedify. <br/>
+💭 Exploring Three.js with the fiber framework to build 3D interactive experience <br/>
 
 <a href="https://git.io/streak-stats">
   <img src=https://streak-stats.demolab.com/?user=christianstamati&&theme=github-dark-blue&&hide_border=true&card_width=495>
