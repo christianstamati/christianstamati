@@ -13,14 +13,12 @@
 ## ⚡ Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/drizzle-111111.svg?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![SQLite](https://img.shields.io/badge/SQLite-034A60.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-3FA793.svg?style=for-the-badge&logo=turso&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF93.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-522BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
