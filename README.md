@@ -1,6 +1,6 @@
 # Hi, I'm Christian 👋
 
-I'm a Software Engineer and Creative Technologist.
+I'm a Software Engineer.
 
 Currently at [Clover Orthopedics](https://cloverorthopedics.com/en/home-en/), building a cloud-based clinical platform for musculoskeletal care.
 Before that, I spent six years at [WeWear](https://wewear.tech) on 3D configurators and size technology for digital fashion.
