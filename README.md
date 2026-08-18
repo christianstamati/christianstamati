@@ -1,20 +1,21 @@
-<p align="center">
-  <img alt="header" src="https://shieldcn.dev/header/gradient.svg?title=Acme+Toolkit&amp;subtitle=A+delightful+component+library&amp;mode=dark" />
-</p>
+# Hi, I'm Christian 👋
 
-<p align="center">
-  <img alt="badge" src="https://shieldcn.dev/npm/react.svg" />
-  <img alt="badge" src="https://shieldcn.dev/github/vercel/next.js/stars.svg" />
-</p>
+Software Engineer and Creative Technologist. I work across the modern web stack and real-time 3D,
+building things that stay fast and accessible without giving up on the visuals.
 
-## Overview
+I care about interfaces people enjoy using and codebases developers enjoy working in.
 
-Acme Toolkit is a fast, accessible set of building blocks. Use the toolbar on the right to edit any block, drag the list to reorder, and export clean Markdown for your README.
+## Tech stack
 
-- 🎨 Themeable
-- ⚡ Fast
-- ♿ Accessible
+**Frontend** · TypeScript · React · Next.js · TanStack Start · Tailwind CSS · shadcn/ui
 
-<p align="center">
-  <img alt="chart" src="https://shieldcn.dev/chart/npm/zod.svg" />
-</p>
+**Creative tech** · Three.js · React Three Fiber · WebGPU · TSL shaders · Unreal Engine 5 · Unity
+
+**Backend & data** · Node.js · Convex · MongoDB · Drizzle ORM · Payload CMS · Better Auth
+
+**Design & 3D** · Blender · Figma
+
+## Contact
+
+- [hello@chri.dev](mailto:hello@chri.dev)
+- [LinkedIn](https://linkedin.com/in/christianstamati)
