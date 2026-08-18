@@ -1,7 +1,7 @@
 Currently at [Clover Orthopedics](https://cloverorthopedics.com/en/home-en/), building a cloud-based clinical platform for musculoskeletal care.
 Before that, five years at [WeWear](https://wewear.tech) on 3D configurators and size technology for digital fashion.
 
-## Selected projects
+## Products I worked on
 
 - **[WE3D Configurator](https://wewear.tech/en/3d-configurator)** — Real-time 3D product customisation, embedded straight into the product page
 - **[SizeFlow Widget](https://wewear.tech/en/sizeflow)** — Size recommendation before add-to-cart, no backend work required
