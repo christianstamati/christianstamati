@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img alt="header" src="https://shieldcn.dev/header/gradient.svg?title=Acme+Toolkit&amp;subtitle=A+delightful+component+library&amp;mode=dark" />
+</p>
 
-<!--
-**christianstamati/christianstamati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alt="badge" src="https://shieldcn.dev/npm/react.svg" />
+  <img alt="badge" src="https://shieldcn.dev/github/vercel/next.js/stars.svg" />
+</p>
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acme Toolkit is a fast, accessible set of building blocks. Use the toolbar on the right to edit any block, drag the list to reorder, and export clean Markdown for your README.
+
+- 🎨 Themeable
+- ⚡ Fast
+- ♿ Accessible
+
+<p align="center">
+  <img alt="chart" src="https://shieldcn.dev/chart/npm/zod.svg" />
+</p>
